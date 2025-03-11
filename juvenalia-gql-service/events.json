@@ -1,0 +1,903 @@
+[
+    {
+        "id": "1",
+        "name": "Strefa Żaczek - JuweCzwartek",
+        "description": "Nie możecie się doczekać Juwenaliów? My też! 🤩 Dlatego bardzo cieszymy się, że możemy uchylić Wam rąbka tajemnicy, co będzie działo się pierwszego dnia koncertowego, już 8 maja, na Strefie Żaczek! 💙 Juwenalia Krakoskie 2025 rozpoczniemy w wielkim stylu! Pierwszego dnia wystąpią przed Wami: 🎙️ Lordofon 🎙️ Enej Kto pojawi się razem z nimi na scenie? Koniecznie obserwujcie wydarzenie oraz nasze Social Media, aby się przekonać! ✨ Zabierajcie znajomych i widzimy się pod sceną 8 maja! 🫶",
+        "type": "concert",
+        "date": "2025-05-08T18:00:00",
+        "eventUrl": "https://www.facebook.com/events/1613763369530886",
+        "location": {
+            "id": "1",
+            "name": "Strefa Żaczek UJ",
+            "address": {
+                "street": "al. 3 Maja",
+                "number": "5",
+                "postCode": "30-063",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/Y9pwoy2mpixG7zpJ6",
+            "nearestPublicTransportStop": {
+                "name": "Muzeum Narodowe",
+                "lines": {
+                    "buses": [
+                        "124",
+                        "134",
+                        "144",
+                        "164",
+                        "169",
+                        "173",
+                        "179",
+                        "192",
+                        "194",
+                        "300",
+                        "301",
+                        "304",
+                        "307",
+                        "310",
+                        "424",
+                        "469",
+                        "494",
+                        "502",
+                        "503",
+                        "513",
+                        "601",
+                        "608",
+                        "609",
+                        "611",
+                        "902"
+                    ],
+                    "trams": [
+                        "6",
+                        "20"
+                    ]
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "1",
+                "name": "Lordofon",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/Lordofon",
+                    "instagram": "https://www.instagram.com/lordofonlordofon/"
+                }
+            },
+            {
+                "id": "2",
+                "name": "Enej",
+                "genre": "pop",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/enejband",
+                    "instagram": "https://www.instagram.com/enejoficjalny/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "II PULA STUDENCKI",
+                "price": {
+                    "amount": 63.00,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY",
+                "price": {
+                    "amount": 105.00,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://www.biletomat.pl/bilety/strefa-zaczek-juweczwartek-69212/",
+        "tags": [
+            "koncert",
+            "żaczek",
+            "juveczwartek",
+            "rap",
+            "pop"
+        ],
+        "organizer": {
+            "name": "Samorząd Studentów UJ",
+            "contactEmail": "biuro@samorzad.uj.edu.pl",
+            "contactPhone": "+48 12 663 11 71"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "2",
+        "name": "Strefa Polibuda - JuwePiątek",
+        "description": "Zapowiada się legendarny piątkowy wieczór w Strefie Polibuda! 🎤🔥 To będzie wieczór pełen mocnych brzmień i energii, której nie da się zapomnieć! 🎸 Na scenie wystąpią dla Was: 🎙️ KSU 🎙️ Kult Choć pełen skład artystów na JuwePiątek pozostaje jeszcze tajemnicą, już teraz możemy Was zapewnić, że Strefa Polibuda stanie się centrum niezależnej, bezkompromisowej muzyki i studenckiej zabawy. Szykujcie się na niezapomniany koncert i solidną dawkę punkowego klimatu! 🤘🔥",
+        "type": "concert",
+        "date": "2025-05-09T17:00:00",
+        "eventUrl": "https://www.facebook.com/events/1418731059090979",
+        "location": {
+            "id": "2",
+            "name": "Strefa Polibuda PK",
+            "address": {
+                "street": "Skarżyńskiego",
+                "number": "1",
+                "postCode": "31-866",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/cjJ1vtsi3YJDNmGY9",
+            "nearestPublicTransportStop": {
+                "name": "Os. Akademickie PK",
+                "lines": {
+                    "buses": [
+                        "129",
+                        "138",
+                        "152",
+                        "159",
+                        "172",
+                        "189",
+                        "442",
+                        "608",
+                        "611"
+                    ],
+                    "trams": []
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "3",
+                "name": "KSU",
+                "genre": "punk rock",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/KSUzespol",
+                    "instagram": "https://www.instagram.com/ksu_polska/"
+                }
+            },
+            {
+                "id": "4",
+                "name": "Kult",
+                "genre": "rock",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/kultoficjalnie",
+                    "instagram": ""
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "II PULA STUDENCKI",
+                "price": {
+                    "amount": 63.00,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "II PULA NORMALNY",
+                "price": {
+                    "amount": 126.00,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://www.biletomat.pl/bilety/juwenalia-krakoskie-strefa-polibuda-piatek-69210/",
+        "tags": [
+            "koncert",
+            "polibuda",
+            "juvepiątek",
+            "punk rock",
+            "rock"
+        ],
+        "organizer": {
+            "name": "Samorząd Studencki Politechniki Krakowskiej - SSPK",
+            "contactEmail": "biuro@samorzad.pk.edu.pl",
+            "contactPhone": "+48 12 628 29 15"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "3",
+        "name": "Strefa Żaczek - JuwePiątek",
+        "description": "Zapowiada się wyjątkowy piątkowy wieczór w Strefie Żaczek! 🎤✨ Choć nie zdradzamy wszystkich szczegółów, możemy zapewnić, że na scenie pojawią się twórcy hitów, które rozkręca każdą imprezę. 🎶 🎙️ Kizo 🎙️ MODELKI 🎙️ Zeamsone Już wkrótce ujawnimy pełen skład artystów na JuwePiątek, ale jedno jest pewne – tej nocy Strefa Żaczek zamieni się w centrum dobrej zabawy. Przygotujcie się na moc wrażeń i niezapomniane chwile.",
+        "type": "concert",
+        "date": "2025-05-09T18:00:00",
+        "eventUrl": "https://www.facebook.com/events/919753203655731",
+        "location": {
+            "id": "1",
+            "name": "Strefa Żaczek UJ",
+            "address": {
+                "street": "al. 3 Maja",
+                "number": "5",
+                "postCode": "30-063",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/Y9pwoy2mpixG7zpJ6",
+            "nearestPublicTransportStop": {
+                "name": "Muzeum Narodowe",
+                "lines": {
+                    "buses": [
+                        "124",
+                        "134",
+                        "144",
+                        "164",
+                        "169",
+                        "173",
+                        "179",
+                        "192",
+                        "194",
+                        "300",
+                        "301",
+                        "304",
+                        "307",
+                        "310",
+                        "424",
+                        "469",
+                        "494",
+                        "502",
+                        "503",
+                        "513",
+                        "601",
+                        "608",
+                        "609",
+                        "611",
+                        "902"
+                    ],
+                    "trams": [
+                        "6",
+                        "20"
+                    ]
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "5",
+                "name": "Kizo",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/KizoMyToSukces",
+                    "instagram": "https://www.instagram.com/kizo_wnik_058/"
+                }
+            },
+            {
+                "id": "6",
+                "name": "MODELKI",
+                "genre": "pop",
+                "socialMedia": {
+                    "facebook": "",
+                    "instagram": "https://www.instagram.com/modelkiontop"
+                }
+            },
+            {
+                "id": "7",
+                "name": "Zeamsone",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/zeamsone",
+                    "instagram": "https://www.instagram.com/zeamsone/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "II PULA STUDENCKI",
+                "price": {
+                    "amount": 63.00,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY",
+                "price": {
+                    "amount": 105.00,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://www.biletomat.pl/bilety/strefa-zaczek-juwepiatek-69213/",
+        "tags": [
+            "koncert",
+            "żaczek",
+            "juvepiątek",
+            "rap",
+            "pop"
+        ],
+        "organizer": {
+            "name": "Samorząd Studentów UJ",
+            "contactEmail": "biuro@samorzad.uj.edu.pl",
+            "contactPhone": "+48 12 663 11 71"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "4",
+        "name": "Strefa Polibuda - JuweSobota",
+        "description": "Czy jest tu ktoś kto nie może doczekać się koncertów w JuweSobotę? 🤩 Jeżeli tak, to cieszymy się że weźmiecie udział w tych niesamowitych scenicznych szaleństwach, które odbędą się już w 10 maja na Strefie Polibuda. 🎸 Tego dnia na juwenaliowej scenie na pewno pojawią się: 🎙️ Szpaku 🎙️ KĘKĘ 🎙️ Chivas Kto jeszcze?⚡️ Powoli odsłaniamy karty, ale jeszcze nie zdradzamy wszystkich szczegółów. 🤫",
+        "type": "concert",
+        "date": "2025-05-10T18:00:00",
+        "eventUrl": "https://www.facebook.com/events/1163244658474234",
+        "location": {
+            "id": "2",
+            "name": "Strefa Polibuda PK",
+            "address": {
+                "street": "Skarżyńskiego",
+                "number": "1",
+                "postCode": "31-866",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/cjJ1vtsi3YJDNmGY9",
+            "nearestPublicTransportStop": {
+                "name": "Os. Akademickie PK",
+                "lines": {
+                    "buses": [
+                        "129",
+                        "138",
+                        "152",
+                        "159",
+                        "172",
+                        "189",
+                        "442",
+                        "608",
+                        "611"
+                    ],
+                    "trams": []
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "8",
+                "name": "Szpaku",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/szpakusimbabor",
+                    "instagram": "https://www.instagram.com/szpakusimba/"
+                }
+            },
+            {
+                "id": "9",
+                "name": "KĘKĘ",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/KeKeOficjalnie",
+                    "instagram": "https://www.instagram.com/kekeoficjalnie/"
+                }
+            },
+            {
+                "id": "10",
+                "name": "Chivas",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/chivasgugu",
+                    "instagram": "https://www.instagram.com/_chivas_042_/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "III PULA STUDENCKI",
+                "price": {
+                    "amount": 73.50,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "III PULA NORMALNY",
+                "price": {
+                    "amount": 147.00,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://www.biletomat.pl/bilety/juwenalia-krakoskie-strefa-polibuda-sobota-69209/",
+        "tags": [
+            "koncert",
+            "polibuda",
+            "juvesobota",
+            "rap"
+        ],
+        "organizer": {
+            "name": "Samorząd Studencki Politechniki Krakowskiej - SSPK",
+            "contactEmail": "biuro@samorzad.pk.edu.pl",
+            "contactPhone": "+48 12 628 29 15"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "5",
+        "name": "Strefa Żaczek - JuweSobota",
+        "description": "10 maja na Strefie Żaczek będzie głośno! 🎙️ Szykujcie się na dawkę potężnej, muzycznej energii i zabawy, która na długo pozostanie w Waszej pamięci. Na scenie pojawią się legendy: 🎙 Pidżama Porno 🎙 Myslovitz Kto jeszcze wystąpi z nimi tej nocy? ❤️🔥🎸 Tego dowiecie się już niebawem. Gwarantujemy, że jest na co czekać! 🔥 ",
+        "type": "concert",
+        "date": "2025-05-10T18:00:00",
+        "eventUrl": "https://www.facebook.com/events/553514251037221",
+        "location": {
+            "id": "1",
+            "name": "Strefa Żaczek UJ",
+            "address": {
+                "street": "al. 3 Maja",
+                "number": "5",
+                "postCode": "30-063",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/Y9pwoy2mpixG7zpJ6",
+            "nearestPublicTransportStop": {
+                "name": "Muzeum Narodowe",
+                "lines": {
+                    "buses": [
+                        "124",
+                        "134",
+                        "144",
+                        "164",
+                        "169",
+                        "173",
+                        "179",
+                        "192",
+                        "194",
+                        "300",
+                        "301",
+                        "304",
+                        "307",
+                        "310",
+                        "424",
+                        "469",
+                        "494",
+                        "502",
+                        "503",
+                        "513",
+                        "601",
+                        "608",
+                        "609",
+                        "611",
+                        "902"
+                    ],
+                    "trams": [
+                        "6",
+                        "20"
+                    ]
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "11",
+                "name": "Myslovitz",
+                "genre": "brit pop",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/Myslovitz",
+                    "instagram": "https://www.instagram.com/myslovitz_official"
+                }
+            },
+            {
+                "id": "12",
+                "name": "Pidżama Porno",
+                "genre": "punk rock",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/pidzamaofficial",
+                    "instagram": "https://www.instagram.com/pidzama_official/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "I PULA STUDENCKI",
+                "price": {
+                    "amount": 53.00,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY",
+                "price": {
+                    "amount": 105.00,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://www.biletomat.pl/bilety/strefa-zaczek-juwesobota-69211/",
+        "tags": [
+            "koncert",
+            "żaczek",
+            "juvesobota",
+            "brit pop",
+            "punk rock"
+        ],
+        "organizer": {
+            "name": "Samorząd Studentów UJ",
+            "contactEmail": "biuro@samorzad.uj.edu.pl",
+            "contactPhone": "+48 12 663 11 71"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "6",
+        "name": "Strefa Plaża - JuweŚroda",
+        "description": "Dwa tygodnie juwenaliowej zabawy zapowiadają się naprawdę świetnie! 🤩 Coraz więcej artystów odsłoniło już swoje twarze w tegorocznym line-upie, i nie zwalniamy tempa! 😎 W JuweŚrodę drugiego tygodnia spotkamy się na Strefie Plaża bawiąc się do muzyki najlepszych artystów! Tego dnia zagrają dla Was: 🎙️ Guzior 🎙️ Otsochodzi 🎙️ Rów Babicze Zapiszcie w kalendarzach - 14 maja 2025! ",
+        "type": "concert",
+        "date": "2025-05-14T17:00:00",
+        "eventUrl": "https://www.facebook.com/events/1143287243990292",
+        "location": {
+            "id": "3",
+            "name": "Strefa Plaża AGH",
+            "address": {
+                "street": "Józefa Rostafińskiego",
+                "number": "7a",
+                "postCode": "30-072",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/zeGYvwEv2LUjyzku7",
+            "nearestPublicTransportStop": {
+                "name": "Miasteczko Studenckie AGH",
+                "lines": {
+                    "buses": [
+                        "139",
+                        "159",
+                        "164",
+                        "173",
+                        "199",
+                        "501",
+                        "511",
+                        "601",
+                        "611"
+                    ],
+                    "trams": []
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "13",
+                "name": "Guzior",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/Guzioor",
+                    "instagram": "https://www.instagram.com/guziormati/"
+                }
+            },
+            {
+                "id": "14",
+                "name": "Otsochodzi",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/Otsochodzi",
+                    "instagram": "https://www.instagram.com/otsochodzi/"
+                }
+            },
+            {
+                "id": "15",
+                "name": "Rów Babicze",
+                "genre": "rap",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/rowbabicze",
+                    "instagram": "https://www.instagram.com/ruwbabicze/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "ULGOWY III PULA",
+                "price": {
+                    "amount": 73.15,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY III PULA",
+                "price": {
+                    "amount": 146.30,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://ticketclub.pl/koncerty/strefa-plaza-juwesroda-guzior-otsochodzi-x-x-strefa-plaza-agh-krakow-3396/",
+        "tags": [
+            "koncert",
+            "plaza",
+            "juveśroda",
+            "rap"
+        ],
+        "organizer": {
+            "name": "Uczelniana Rada Samorządu Studentów AGH",
+            "contactEmail": "biuro@samorzad.agh.edu.pl",
+            "contactPhone": "+48 12 617 39 39"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "7",
+        "name": "Strefa Plaża - JuweCzwartek",
+        "description": " Zapowiada się absolutnie wyjątkowy czwartek w Strefie Plaża AGH! 🎤✨ Choć nie zdradzamy jeszcze wszystkich szczegółów, możemy już teraz obiecać, że na scenie pojawią się niezastąpieni: 🎙️ Bracia Figo Fagot 🎙️ Wojtek Szumański Już wkrótce ujawnimy pełen skład artystów na JuweCzwartek, ale jedno jest pewne – tego wieczoru Strefa Plaża AGH stanie się centrum studenckiej energii i niezapomnianej zabawy. Przygotujcie się na tańce, śpiewy i szalone emocje! 🔥",
+        "type": "concert",
+        "date": "2025-05-15T17:00:00",
+        "eventUrl": "https://www.facebook.com/events/609458315166751",
+        "location": {
+            "id": "3",
+            "name": "Strefa Plaża AGH",
+            "address": {
+                "street": "Józefa Rostafińskiego",
+                "number": "7a",
+                "postCode": "30-072",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/zeGYvwEv2LUjyzku7",
+            "nearestPublicTransportStop": {
+                "name": "Miasteczko Studenckie AGH",
+                "lines": {
+                    "buses": [
+                        "139",
+                        "159",
+                        "164",
+                        "173",
+                        "199",
+                        "501",
+                        "511",
+                        "601",
+                        "611"
+                    ],
+                    "trams": []
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "16",
+                "name": "Bracia Figo Fagot",
+                "genre": "disco polo",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/profile.php?id=100044305065617",
+                    "instagram": "https://www.instagram.com/bracia_figo_fagot_ofcl/"
+                }
+            },
+            {
+                "id": "17",
+                "name": "Wojtek Szumański",
+                "genre": "pop",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/w.szumanski",
+                    "instagram": "https://www.instagram.com/wojtekszumanski/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "ULGOWY II PULA",
+                "price": {
+                    "amount": 62.70,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY II PULA",
+                "price": {
+                    "amount": 125.40,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://ticketclub.pl/koncerty/strefa-plaza-juweczwartek-bracia-figo-fagot-wojtek-szumanski-x-strefa-plaza-agh-krakow-3397/",
+        "tags": [
+            "koncert",
+            "plaza",
+            "juveczwartek",
+            "disco polo",
+            "pop"
+        ],
+        "organizer": {
+            "name": "Uczelniana Rada Samorządu Studentów AGH",
+            "contactEmail": "biuro@samorzad.agh.edu.pl",
+            "contactPhone": "+48 12 617 39 39"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "8",
+        "name": "Strefa Plaża - JuwePiątek",
+        "description": "Ależ nam się szykuje niezapomniany piątkowy wieczór! Nie zdradzamy jeszcze wszystkiego, natomiast możemy powiedzieć, że z pewnością tego dnia na Plaży wystąpią zespoły: 🎙️ Ich Troje 🎙️ Baciary Co za połączenie! 🎶 Gwarantujemy świetną zabawę! 🎹 🎸 🥁",
+        "type": "concert",
+        "date": "2025-05-16T17:00:00",
+        "eventUrl": "https://www.facebook.com/events/628099842940557",
+        "location": {
+            "id": "3",
+            "name": "Strefa Plaża AGH",
+            "address": {
+                "street": "Józefa Rostafińskiego",
+                "number": "7a",
+                "postCode": "30-072",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/zeGYvwEv2LUjyzku7",
+            "nearestPublicTransportStop": {
+                "name": "Miasteczko Studenckie AGH",
+                "lines": {
+                    "buses": [
+                        "139",
+                        "159",
+                        "164",
+                        "173",
+                        "199",
+                        "501",
+                        "511",
+                        "601",
+                        "611"
+                    ],
+                    "trams": []
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "18",
+                "name": "Ich troje",
+                "genre": "pop",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/ichtroje",
+                    "instagram": ""
+                }
+            },
+            {
+                "id": "19",
+                "name": "Baciary",
+                "genre": "folk",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/zespol.baciary/",
+                    "instagram": "https://www.instagram.com/zespol_baciary/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "ULGOWY III PULA",
+                "price": {
+                    "amount": 73.15,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY III PULA",
+                "price": {
+                    "amount": 146.30,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://ticketclub.pl/koncerty/strefa-plaza-juwepiatek-ich-troje-baciary-x-x-strefa-plaza-agh-krakow-3398/",
+        "tags": [
+            "koncert",
+            "plaza",
+            "juvepiatek",
+            "folk",
+            "pop"
+        ],
+        "organizer": {
+            "name": "Uczelniana Rada Samorządu Studentów AGH",
+            "contactEmail": "biuro@samorzad.agh.edu.pl",
+            "contactPhone": "+48 12 617 39 39"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    },
+    {
+        "id": "9",
+        "name": "Strefa Plaża - JuweSobota",
+        "description": "Czas na wielki finał! 🔥 Ostatni dzień Juwenaliów to zwieńczenie dwóch tygodni pełnych muzyki, niezapomnianych emocji i niesamowitej energii! 🎶🪅 Szykujcie się na prawdziwą petardę – kończymy z przytupem! 🔥🚀 Tego dnia wystąpią dla Was: 🎙️ Mrozu 🎙️ LEMON 🎙️ Happysad",
+        "type": "concert",
+        "date": "2025-05-17T16:00:00",
+        "eventUrl": "https://www.facebook.com/events/1014339430550055/",
+        "location": {
+            "id": "3",
+            "name": "Strefa Plaża AGH",
+            "address": {
+                "street": "Józefa Rostafińskiego",
+                "number": "7a",
+                "postCode": "30-072",
+                "city": "Kraków"
+            },
+            "googleMapsPin": "https://maps.app.goo.gl/zeGYvwEv2LUjyzku7",
+            "nearestPublicTransportStop": {
+                "name": "Miasteczko Studenckie AGH",
+                "lines": {
+                    "buses": [
+                        "139",
+                        "159",
+                        "164",
+                        "173",
+                        "199",
+                        "501",
+                        "511",
+                        "601",
+                        "611"
+                    ],
+                    "trams": []
+                }
+            }
+        },
+        "artists": [
+            {
+                "id": "20",
+                "name": "Mrozu",
+                "genre": "pop",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/MrozuFB",
+                    "instagram": "https://www.instagram.com/mrozu_/"
+                }
+            },
+            {
+                "id": "21",
+                "name": "Happysad",
+                "genre": "rock",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/happysadpl",
+                    "instagram": "https://www.instagram.com/happysadpl/"
+                }
+            },
+            {
+                "id": "22",
+                "name": "LEMON",
+                "genre": "pop",
+                "socialMedia": {
+                    "facebook": "https://www.facebook.com/band.lemon",
+                    "instagram": "https://www.instagram.com/lemonband/"
+                }
+            }
+        ],
+        "tickets": [
+            {
+                "name": "ULGOWY III PULA",
+                "price": {
+                    "amount": 73.15,
+                    "currency": "PLN"
+                }
+            },
+            {
+                "name": "NORMALNY III PULA",
+                "price": {
+                    "amount": 146.30,
+                    "currency": "PLN"
+                }
+            }
+        ],
+        "ticketsUrl": "https://ticketclub.pl/koncerty/strefa-plaza-juwesobota-lemon-happysad-mrozu-x-strefa-plaza-agh-krakow-3399/",
+        "tags": [
+            "koncert",
+            "plaza",
+            "juvesobota",
+            "rock",
+            "pop"
+        ],
+        "organizer": {
+            "name": "Uczelniana Rada Samorządu Studentów AGH",
+            "contactEmail": "biuro@samorzad.agh.edu.pl",
+            "contactPhone": "+48 12 617 39 39"
+        },
+        "registrationRequired": false,
+        "accessibility": {
+            "wheelchairAccessible": true,
+            "signLanguage": false
+        }
+    }
+]
